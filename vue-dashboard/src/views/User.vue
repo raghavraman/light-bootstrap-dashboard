@@ -1,14 +1,11 @@
 <template>
-  <div class="user">
-     <Sidebar active="user"/>
-    <h1>User</h1>
-  </div>
+  <User/>
 </template>
 <script>
-import Sidebar from '@/components/Sidebar'
+import User from '@/components/User'
 export default {
   name: 'user',
-  components: {Sidebar}
+  components: {User}
 }
 </script>
 <style>
