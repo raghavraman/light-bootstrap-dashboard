@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard">
-    <Sidebar/>
+    <Sidebar active="dashboard"/>
     <h1>Dashboard</h1>
   </div>
 </template>

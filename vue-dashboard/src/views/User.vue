@@ -1,6 +1,6 @@
 <template>
   <div class="user">
-     <Sidebar/>
+     <Sidebar active="user"/>
     <h1>User</h1>
   </div>
 </template>

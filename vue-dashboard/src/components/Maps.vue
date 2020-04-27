@@ -1,6 +1,6 @@
 <template>
   <div class="maps">
-    <Sidebar/>
+    <Sidebar active="maps"/>
     <h1>Maps</h1>
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="icons">
-    <Sidebar/>
+    <Sidebar active="icons"/>
     <h1>Icons</h1>
   </div>
 </template>

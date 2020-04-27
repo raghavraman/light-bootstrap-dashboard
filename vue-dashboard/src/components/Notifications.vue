@@ -1,6 +1,6 @@
 <template>
   <div class="notifications">
-     <Sidebar/>
+     <Sidebar active="notifications"/>
     <h1>Notifications</h1>
   </div>
 </template>

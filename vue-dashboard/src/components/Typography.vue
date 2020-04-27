@@ -1,6 +1,6 @@
 <template>
   <div class="typography">
-    <Sidebar/>
+    <Sidebar active="typography"/>
     <h1>Typography</h1>
   </div>
 </template>
